@@ -60,4 +60,10 @@ The biggest challenge came from when I started on the task for the contracts. Th
 without a lot of knowledge about the capabilities of pygame, meaning that a method I had in mind may not be practical. The solution to this will really come from
 just more practice of the code and getting to know what it can do and come up with practical solutions to the functionality I want to achieve.
 
+_________________________________
 
+WEEK 5 (Time complexity, game pitches and more graphics)
+
+
+
+_________________________________
