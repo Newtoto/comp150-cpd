@@ -57,13 +57,19 @@ WEEK 4 (Logic gates, memory and image manipulation)
 Logic gates and memory to the extent that we looked at them was fairly simple so no issues there.
 
 The biggest challenge came from when I started on the task for the contracts. The main difficulty of this has been trying to think of ways to implement what I want
-without a lot of knowledge about the capabilities of pygame, meaning that a method I had in mind may not be practical. The solution to this will really come from
-just more practice of the code and getting to know what it can do and come up with practical solutions to the functionality I want to achieve.
+without a lot of knowledge about the capabilities of pygame, meaning that a method I had in mind may not be practical. The solution to this will really come from.
+I just more practice of the code and getting to know what it can do and come up with practical solutions to the functionality I want to achieve.
 
 _________________________________
 
 WEEK 5 (Time complexity, game pitches and more graphics)
 
+I struggled with time complexity this week. I understand the basic for loops and embedded for loops, but when it comes to running an embedded loop "j" up to "i-1" I can't figure out what the big O notation would be. I should be able to overcome this by researching a little into more common terms and methods of deriving big O notation from an algorithm.
 
+_________________________________
+
+WEEK 6 (OOP and Scholarly writing)
+
+I seem to overall understand what was taught about OOP and the scholarly writing. The main difficulty for me now has come from the tinkering graphics project in which I am struggling with how to best organise my code for editing. I'm going to try out a few ways and see which I find the most legible with reference to some outside sources on coding cleanliness.
 
 _________________________________
