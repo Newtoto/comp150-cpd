@@ -73,3 +73,13 @@ WEEK 6 (OOP and Scholarly writing)
 I seem to overall understand what was taught about OOP and the scholarly writing. The main difficulty for me now has come from the tinkering graphics project in which I am struggling with how to best organise my code for editing. I'm going to try out a few ways and see which I find the most legible with reference to some outside sources on coding cleanliness.
 
 _________________________________
+
+WEEK 7
+
+With the group game projects under way and as the scrum master, I found it hard to organise my team with us all working at different times and also having other things to work on simultaneously. Since my essay relates to this, I will try and apply some of my research to my scrum.
+
+_________________________________
+
+WEEK 8 (7thNOV)
+
+The greatest difficulty this week was apparent at the sprint review where there were still things left in "In Progress" and "To Do". I will try and reduce the amount in the sprint to a more managable quantity and make sure every member knows what it is they need to do.
