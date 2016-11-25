@@ -83,3 +83,16 @@ _________________________________
 WEEK 8 (7thNOV)
 
 The greatest difficulty this week was apparent at the sprint review where there were still things left in "In Progress" and "To Do". I will try and reduce the amount in the sprint to a more managable quantity and make sure every member knows what it is they need to do.
+
+_________________________________
+
+WEEK 9 (14thNOV)
+
+Setting up travis CI
+Tone Generation - research
+
+_________________________________
+
+WEEK 10 (21st NOV)
+
+Applying envelopes to sounds - research
