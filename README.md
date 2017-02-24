@@ -96,3 +96,15 @@ _________________________________
 WEEK 10 (21st NOV)
 
 Applying envelopes to sounds - research
+
+_________________________________
+<h2>Semester 2 CPD</h2>
+<h3>Week 1</h3>
+<p>This first week, with the product owner meeting and the supervised session have reinforced the feeling that I didn't use Christmas in a productive manner. I have a habit of peaking and troughing  pretty severely when it comes to my motivation to do work and this applies across everything I do. It’s probably a good idea to set out specific production goals and try not to deviate too much from that. Obviously it’s natural to want to enjoy a break, but I’m all too aware that summer is going to be about 4 months and if I am able to apply myself to a regime of minimum production (after a wee break now and then of course) this could prove to be a very useful time to fine tune what I’ve learnt and pick up some extra skills before next year.</p>
+_________________________________
+<h3>Week 2</h3>
+<p>The communication for our team project has been somewhat lacking, there are certainly a couple of members who are slacking with their work, but it’s less clear if this is the case when we don’t talk enough to pass on what our personal progress has been. The mandelbrot worksheet has proved to be a tricky endevour, but with some messing around with it for a while my understanding for it has definitely improved and I was actually able to troubleshoot someone else’s in about 10 seconds which is always a nice moral boost, knowing that I have at least some comprehension of what’s going on. My mandlebrot did end up with a mixture of doubles and floats which came from a lack of knowing exactly what the difference was.</p>
+_________________________________
+<h3>Week 3/h3>
+<p>Researching custom controllers is fun. The exploration of what wacky things have been created to operate games has opened up my mind to the possibilities of what could be achieved if you deviate from joysticks and just simple buttons. I have 4 designs for my custom controller which I have run past a few people for opinions to which the outcome was a resounding preference for the laser puzzle game. I tried making this game in unity, but really my limited skillset within the unity-sphere is making it very difficult to know what to search for, and since the game is a puzzle, there are no real explicit tutorials I can watch. I’d have to derive the functionality that I want to add from several tutorials, and I don’t have time for this right now, so I’m going to move over to unreal since I can somewhat visualise how I’m going to implement what I planned. Know your skill base, what you’re planning on doing, and pick an engine to match. That’s what I’m taking from this, that and I’m going to try and increase my unity knowledge base in the background just to open up options in the future. Summer will play a big part in how much unity I learn too.</p>
+_________________________________
